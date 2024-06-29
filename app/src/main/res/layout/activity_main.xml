@@ -16,7 +16,7 @@
         android:ems="10"
         android:inputType="text"
         android:background="@color/white"
-        android:textColor="#EF1808"
+        android:textColor="#EF1809"
         android:hint="Enter Name"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
