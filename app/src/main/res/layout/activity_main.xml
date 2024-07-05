@@ -37,7 +37,7 @@
 
     <Button
         android:id="@+id/button"
-        android:onClick="myClickHandler"
+        android:onClick="dsdvsv"
         android:layout_width="@dimen/my_btn_Size"
         android:layout_height="wrap_content"
         android:layout_marginStart="28dp"

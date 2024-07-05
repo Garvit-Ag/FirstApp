@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Nombre</string>
+    <string name="password">Passwordiano</string>
+    <string name="login">Loginento</string>
+</resources>
